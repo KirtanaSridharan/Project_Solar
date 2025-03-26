@@ -4,9 +4,9 @@ Overview: Project Solar is a web-based solar project management portal designed 
 
 Key Features:
 
-User Access: Different user roles for sales, management, engineers, and customers.
-Real-time Updates: Instant visibility of project status and updates.
-Agile Development: Employed agile methodologies with JIRA for effective project tracking and collaboration.
+User Access: Different user roles for sales, management, engineers, and customers.\
+Real-time Updates: Instant visibility of project status and updates.\
+Agile Development: Employed agile methodologies with JIRA for effective project tracking and collaboration.\
 
 To run Project 
 run :
